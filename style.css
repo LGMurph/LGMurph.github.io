@@ -1,7 +1,8 @@
 body {
-  font-family: 'Helvetica', sans-serif;
-  background-color: #f0f2f5;
+  font-family: 'Georgia';
+  background-color: #1a1a1a;
   margin: 0;
+  line-height: 1.6;
 }
 header {
   background-color: #007acc;
