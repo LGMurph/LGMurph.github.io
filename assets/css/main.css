@@ -2790,7 +2790,7 @@ input, select, textarea {
 	#footer {
 		background-color: #19181a;
 		border-radius: 0 0 8px 8px;
-		padding: 5em 3em 3em 3em ;
+		padding: 2em 3em 1em 3em ;
 		text-align: center;
 	}
 
@@ -2816,9 +2816,9 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		margin-bottom: 6em;
+		margin-bottom: 3em;
 		text-align: center;
-		color: #e0e0e0;
+		color: #000000;
 	}
 
 /* XLarge */
