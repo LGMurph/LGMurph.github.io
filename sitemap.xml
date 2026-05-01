@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
 <url>
-  <loc>https://lgmurph.github.io/index.html</loc>
-  <lastmod>2026-05-01T19:32:25+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://lgmurph.github.io/</loc>
+  
+  <image:image>
+    <image:loc>https://lgmurph.github.io/images/LGM_headshot.jpg</image:loc>
+    <image:caption>My professional headshot</image:caption>
+  </image:image>
+  <lastmod>2026-05-01</lastmod>
+  
 </url>
+
 <url>
   <loc>https://lgmurph.github.io/cv.html</loc>
-  <lastmod>2026-05-01T19:32:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2026-05-01</lastmod>
 </url>
+
 <url>
   <loc>https://lgmurph.github.io/research.html</loc>
-  <lastmod>2026-05-01T19:32:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2026-05-01</lastmod>
 </url>
+
 <url>
-  <loc>https://lgmurph.github.io/images/LMurphy_CV.pdf</loc>
-  <lastmod>2026-05-01T19:32:25+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://lgmurph.github.io/files/LMurphy_CV.pdf</loc>
+  <lastmod>2026-05-01</lastmod>
 </url>
+
 <url>
   <loc>https://lgmurph.github.io/snews.html</loc>
-  <lastmod>2026-05-01T19:32:25+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-05-01</lastmod>
 </url>
+
 <url>
   <loc>https://lgmurph.github.io/pwao.html</loc>
-  <lastmod>2026-05-01T19:32:25+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-05-01</lastmod>
 </url>
 
 
